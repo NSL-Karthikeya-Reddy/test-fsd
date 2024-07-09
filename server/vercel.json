@@ -11,10 +11,7 @@
     }
   ],
   "routes": [
-    {
-      "src": "/favicon.png",
-      "dest": "/public/favicon.png"
-    },
+   
     {
       "src": "/(.*)",
       "dest": "index.js"
